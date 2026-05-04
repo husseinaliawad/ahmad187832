@@ -65,7 +65,7 @@ $categoriesResult = $conn->query($categoriesSql);
                     <?php $isActive = false; endwhile; ?>
                 <?php else: ?>
                     <div class="carousel-item active">
-                        <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1300&q=80" class="d-block w-100" alt="لا توجد فعاليات">
+                        <img src="assets/img/event1.jpg" class="d-block w-100" alt="لا توجد فعاليات">
                         <div class="carousel-caption bg-dark bg-opacity-50 rounded-3 p-3">
                             <h5>لا توجد فعاليات مضافة حاليًا</h5>
                             <p>ابدأ بإضافة الفعاليات من لوحة التحكم.</p>

@@ -31,10 +31,11 @@
     <section class="section-card p-4 mb-4">
         <h2 class="section-title">فريق المشروع (الأسماء و IDs)</h2>
         <div class="row g-3">
-            <div class="col-md-6"><div class="p-3 border rounded-3">محمد فهد الخطيب | ID: 153264 | Full Stack</div></div>
-            <div class="col-md-6"><div class="p-3 border rounded-3">محمد مجد الصالح | ID: 152610 | Frontend</div></div>
-            <div class="col-md-6"><div class="p-3 border rounded-3">نور | ID: 238076 | Frontend</div></div>
-            <div class="col-md-6"><div class="p-3 border rounded-3">محمد | ID: 163203 | Backend</div></div>
+            <div class="col-md-6"><div class="p-3 border rounded-3">أحمد رحمون | ahmad_187832 c1</div></div>
+            <div class="col-md-6"><div class="p-3 border rounded-3">ملدا قدور | mulda_197917_C3</div></div>
+            <div class="col-md-6"><div class="p-3 border rounded-3">عبدالرحمن داغستاني | abdalrhman_176558 C1</div></div>
+            <div class="col-md-6"><div class="p-3 border rounded-3">فداء فوزي | fedaa_290944</div></div>
+            <div class="col-md-6"><div class="p-3 border rounded-3">بيسان احمد | bisan_266673</div></div>
         </div>
     </section>
 
