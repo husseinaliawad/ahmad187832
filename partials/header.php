@@ -1,4 +1,4 @@
-﻿<header class="site-header fixed-top">
+<header class="site-header fixed-top">
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand d-flex align-items-center gap-2" href="index.php">

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
  * SQLite-backed mysqli compatibility layer.
  * Keeps the existing app code unchanged while replacing MySQL dependency.
