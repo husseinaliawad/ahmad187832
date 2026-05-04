@@ -125,10 +125,11 @@ $categoriesResult = $conn->query($categoriesSql);
     <section class="section-card p-4 mt-4">
         <h2 class="section-title">المشاركون في المشروع</h2>
         <div class="row g-3">
-            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">محمد فهد | ID: 153264</div></div>
-            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">محمد مجد الصالح | ID: 152610</div></div>
-            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">نور | ID: 238076</div></div>
-            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">محمد | ID: 163203</div></div>
+            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">أحمد رحمون | ahmad_187832 c1</div></div>
+            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">ملدا قدور | mulda_197917_C3</div></div>
+            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">عبدالرحمن داغستاني | abdalrhman_176558 C1</div></div>
+            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">فداء فوزي | fedaa_290944</div></div>
+            <div class="col-md-6 col-lg-4"><div class="p-3 border rounded-3">بيسان احمد | bisan_266673</div></div>
         </div>
     </section>
 </main>
