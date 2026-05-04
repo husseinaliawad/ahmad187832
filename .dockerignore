@@ -1,0 +1,9 @@
+﻿.git
+.gitignore
+.qodo
+.zencoder
+.zenflow
+*.log
+node_modules
+vendor
+docker-compose*.yml

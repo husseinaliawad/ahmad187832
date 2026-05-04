@@ -1,0 +1,25 @@
+﻿.admin-body {
+    background: linear-gradient(130deg, #eef5fb, #f9fbfe);
+    color: #122334;
+    font-family: 'Cairo', sans-serif;
+}
+
+.admin-shell {
+    max-width: 1100px;
+}
+
+.admin-card {
+    background: #fff;
+    border: 1px solid #d9e3ef;
+    border-radius: 16px;
+    box-shadow: 0 14px 30px rgba(17, 64, 106, 0.08);
+}
+
+.admin-navbar {
+    background: #0f4c81;
+}
+
+.login-wrapper {
+    max-width: 420px;
+    margin: 80px auto;
+}
